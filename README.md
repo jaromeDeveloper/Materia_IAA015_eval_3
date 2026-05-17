@@ -70,5 +70,3 @@ Contacto
 - Fecha: 2026
 
 ---
-
-Si quieres, genero un archivo package.json con scripts de desarrollo (start/build) o añado pruebas unitarias para las funciones de validación en `script.js`. Indícame la preferencia y lo añado.
